@@ -30,5 +30,5 @@
             </intent-filter>
         </activity>
     </application>
-
+//endlogin
 </manifest>
