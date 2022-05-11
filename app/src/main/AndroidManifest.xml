@@ -3,9 +3,13 @@
     package="com.example.game">
     
     // Lobby Game
+<<<<<<< HEAD
 
     // Lobby
 
+=======
+    // LOBBY 1 GAME
+>>>>>>> main
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
@@ -32,7 +36,5 @@
             </intent-filter>
         </activity>
     </application>
-
 // End Lobby
-
 </manifest>
