@@ -3,7 +3,7 @@
     package="com.example.game">
     
     // Lobby Game
-
+    // LOBBY 1 GAME
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
